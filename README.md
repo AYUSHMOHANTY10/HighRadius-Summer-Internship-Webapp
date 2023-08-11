@@ -1,7 +1,6 @@
 # HighRadius-Summer-Internship-Webapp
-Made a fully funtional WebApp.
 
-🌞 Summer Internship Project: Complete Web Application Development 🚀
+## 🌞 Summer Internship Project: Made a Fully Functional & Complete Web Application 🚀
 
 Welcome to my GitHub repository showcasing the exciting journey of my summer internship project! 🌟
 
